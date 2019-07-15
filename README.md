@@ -1,5 +1,6 @@
 # 🎞 giphy-board
-## a Vue.js powered Giphy reaction board
+
+**a Vue.js powered Giphy reaction board**
 
 ![Oops! Rick roll'd](https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif)
 
@@ -16,32 +17,32 @@ MIT License and all that, do what you will.  Don't expect me to give you other t
 
 ## Project Installation
 
-### Install all the necessary dependencies:
+**Install all the necessary dependencies:**
 
 ```
 npm install
 ```
-### Compiles and hot-reloads for development:
+**Compiles and hot-reloads for development:**
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+**Compiles and minifies for production**
 ```
 npm run build
 ```
 
-### Run your tests
+**Run your tests**
 ```
 npm run test
 ```
 
-### Lints and fixes files
+**Lints and fixes files**
 ```
 npm run lint
 ```
 
-### Run your unit tests
+**Run your unit tests**
 ```
 npm run test:unit
 ```
