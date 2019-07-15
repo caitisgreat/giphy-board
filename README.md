@@ -1,7 +1,7 @@
 # 🎞 giphy-board
 a Vue.js powered Giphy reaction board
 
-![Oops! Rick roll'd](https://media.giphy.com/media/olAik8MhYOB9K/giphy.gif)
+![Oops! Rick roll'd](https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif)
 
 Yeah, hey, I got bored and decided to write a simple web app that pulls from the Giphy API.
 
