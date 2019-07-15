@@ -1,5 +1,5 @@
 # 🎞 giphy-board
-a Vue.js powered Giphy reaction board
+## a Vue.js powered Giphy reaction board
 
 ![Oops! Rick roll'd](https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif)
 
@@ -14,6 +14,34 @@ Yeah, hey, I got bored and decided to write a simple web app that pulls from the
 
 MIT License and all that, do what you will.  Don't expect me to give you other things though.
 
-## Installation
+## Project Installation
 
-TBD
+### Install all the necessary dependencies:
+
+```
+npm install
+```
+### Compiles and hot-reloads for development:
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Run your unit tests
+```
+npm run test:unit
+```
