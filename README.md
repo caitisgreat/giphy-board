@@ -1,6 +1,6 @@
 # 🎞 giphy-board
 
-**a Vue.js powered Giphy reaction board**
+**WIP - a Vue.js powered Giphy reaction board**
 
 ![Oops! Rick roll'd](https://media.giphy.com/media/5kq0GCjHA8Rwc/giphy.gif)
 
