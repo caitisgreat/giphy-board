@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b361d"],{"27ac":function(n,e,t){"use strict";t.r(e);var i=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("\n  Trending\n  "),t("Gif",{attrs:{id:"RYdlpCWVnRg6A",src:"https://media.giphy.com/media/RYdlpCWVnRg6A/giphy.gif"}})],1)},c=[],d=function(){return t.e("chunk-2d0a3c2e").then(t.bind(null,"040d"))},u={components:{Gif:d}},l=u,r=t("2877"),a=Object(r["a"])(l,i,c,!1,null,null,null);e["default"]=a.exports}}]);
-//# sourceMappingURL=chunk-2d0b361d.0d3b43b6.js.map
+//# sourceMappingURL=chunk-2d0b361d.a3b17bc5.js.map
